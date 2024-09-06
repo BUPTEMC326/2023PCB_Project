@@ -1,47 +1,53 @@
 from py2neo import Graph, NodeMatcher, Node, Relationship
 import csv
+from py2neo import Graph, Node, Relationship, NodeMatcher
+import csv
 
 # 连接到Neo4j数据库
 graph = Graph("http://localhost:7474", auth=("neo4j", "123456"))
 
-# 删除所有现有数据（小心使用）
-graph.delete_all()
+try:
+    with open(r'D:\wk\Graph_Data_ALL.csv', 'r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        data = list(reader)
+except UnicodeDecodeError:
+    with open(r'D:\wk\Graph_Data_ALL.csv', 'r', encoding='latin-1') as f:
+        reader = csv.reader(f)
+        data = list(reader)
 
-# 读取CSV文件
-with open(r'D:\wk\Graph_Data_ALL.csv', 'r', encoding='utf-8') as f:
-    reader = csv.reader(f)
-    data = list(reader)
-
-# 打印第一行数据以验证读取成功
-print(data[1])
+# 打印每一行的长度以调试
+for idx, row in enumerate(data):
+    print(f"Row {idx} length: {len(row)} -> {row}")
 
 # 创建节点和关系
 matcher = NodeMatcher(graph)
 
-for i in range(1, len(data)):
-    head_name = data[i][1]
-    relation = data[i][2]
-    tail_name = data[i][3]
+for i in range(1, len(data)-4):
+    row = data[i]
+    nodes = []
+    relations = []
 
-    # 查找或创建头节点
-    head_node = matcher.match("head", name=head_name).first()
-    if not head_node:
-        head_node = Node("head", name=head_name)
-        graph.create(head_node)
+    # 处理节点和关系（假设每行格式是 node1, relation1, node2, relation2, node3, relation3, node4, ...）
+    for j in range(1, len(row)):
+        if row[j]:
+            if j % 2 == 1:  # 奇数索引是节点
+                nodes.append(row[j])
+            else:           # 偶数索引是关系
+                relations.append(row[j])
 
-    # 查找或创建尾节点
-    tail_node = matcher.match("tail", name=tail_name).first()
-    if not tail_node:
-        tail_node = Node("tail", name=tail_name)
-        graph.create(tail_node)
+    # 通过匹配节点名称来查找或创建节点
+    node_objs = []  # 存储匹配或创建的节点对象
+    for node_name in nodes:
+        node = matcher.match("Node", name=node_name).first()
+        if not node:
+            node = Node("Node", name=node_name)
+            graph.create(node)
+        node_objs.append(node)
 
-    # 创建关系
-    relationship = Relationship(head_node, relation, tail_node)
-    graph.create(relationship)
-
-
-
+    # 创建关系（假设关系的数量总是比节点数量少一个）
+    for k in range(len(relations)):
+        relationship = Relationship(node_objs[k], relations[k], node_objs[k + 1])
+        graph.create(relationship)
 
 if __name__ == '__main__':
-     path = r"D:\wk\Graph_Data_ALL.csv"
-     # call apoc.export.csv.query("MATCH (n)-[r]-(m) return n,r,m","d:/movie.csv",{format:'plain',cypherFormat:'updateStructure'})
+    path = r"D:\wk\Graph_Data_ALL.csv"
