@@ -1,0 +1,5539 @@
+LISTING: 160 element(s)
+
+Item 1        < PIN >
+
+  pin number:   J1304.G5
+  pin name:     G5
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.5014 -38.4176) 
+  Part of net:       GND_P13
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_65X0_32
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G5
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):G5
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = D:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_65x0_32.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 2        < PIN >
+
+  pin number:   J1304.G2
+  pin name:     G2
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1464 -37.9576) 
+  Part of net:       GND_P13
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G2
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):G2
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 2 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 3        < PIN >
+
+  pin number:   J1304.2
+  pin name:     2
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -37.5576) 
+  Part of net:       CAMW_DRVDD_3P1_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 2
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\2\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 4        < PIN >
+
+  pin number:   J1304.4
+  pin name:     4
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -37.2076) 
+  Part of net:       CAMW_DRVDD_3P1_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 4
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\4\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 5        < PIN >
+
+  pin number:   J1304.6
+  pin name:     6
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -36.8576) 
+  Part of net:       GND_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 6
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\6\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 6        < PIN >
+
+  pin number:   J1304.8
+  pin name:     8
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -36.5076) 
+  Part of net:       GND_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 8
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\8\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 7        < PIN >
+
+  pin number:   J1304.10
+  pin name:     10
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -36.1576) 
+  Part of net:       CAMW_AFVDD_3P1_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 10
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\10\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 8        < PIN >
+
+  pin number:   J1304.12
+  pin name:     12
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -35.8076) 
+  Part of net:       SDA9_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 12
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\12\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 9        < PIN >
+
+  pin number:   J1304.14
+  pin name:     14
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -35.4576) 
+  Part of net:       SCL9_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 14
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\14\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 10       < PIN >
+
+  pin number:   J1304.16
+  pin name:     16
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -35.1076) 
+  Part of net:       OIS_SDA8_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 16
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\16\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 11       < PIN >
+
+  pin number:   J1304.18
+  pin name:     18
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -34.7576) 
+  Part of net:       OIS_SCL8_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 18
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\18\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 12       < PIN >
+
+  pin number:   J1304.20
+  pin name:     20
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -34.4076) 
+  Part of net:       GND_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 20
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\20\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 13       < PIN >
+
+  pin number:   J1304.22
+  pin name:     22
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -34.0576) 
+  Part of net:       CAMW_MCLK2_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 22
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\22\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 14       < PIN >
+
+  pin number:   J1304.24
+  pin name:     24
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -33.7076) 
+  Part of net:       GND_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 24
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\24\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 15       < PIN >
+
+  pin number:   J1304.26
+  pin name:     26
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -33.3576) 
+  Part of net:       CAMW_RSTN_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 26
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\26\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 16       < PIN >
+
+  pin number:   J1304.28
+  pin name:     28
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -33.0076) 
+  Part of net:       CAMW_VSYNC_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 28
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\28\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 17       < PIN >
+
+  pin number:   J1304.30
+  pin name:     30
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -32.6576) 
+  Part of net:       GND_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 30
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\30\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 18       < PIN >
+
+  pin number:   J1304.32
+  pin name:     32
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -32.3076) 
+  Part of net:       CAMW_AVDD_1P8_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 32
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\32\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 19       < PIN >
+
+  pin number:   J1304.34
+  pin name:     34
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 -31.9576) 
+  Part of net:       CAMW_AVDD_2P8_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 34
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\34\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 20       < PIN >
+
+  pin number:   J1304.G6
+  pin name:     G6
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.5014 -31.0976) 
+  Part of net:       GND_P13
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_65X0_32
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G6
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):G6
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = D:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_65x0_32.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 21       < PIN >
+
+  pin number:   J1304.G4
+  pin name:     G4
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1464 -31.5576) 
+  Part of net:       GND_P13
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G4
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):G4
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 22       < PIN >
+
+  pin number:   J1101.G5
+  pin name:     G5
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.3846 11.5824) 
+  Part of net:       CAMW_DVDD_1P15_P11
+  Connected lines:     3 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_65X0_32
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G5
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):G5
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = D:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_65x0_32.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 23       < PIN >
+
+  pin number:   J1101.G2
+  pin name:     G2
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.0296 12.0424) 
+  Part of net:       CAMW_DVDD_1P15_P11
+  Connected lines:     2 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G2
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):G2
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 2 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 24       < PIN >
+
+  pin number:   J1101.2
+  pin name:     2
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 12.4424) 
+  Part of net:       AGND_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 2
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\2\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 25       < PIN >
+
+  pin number:   J1101.4
+  pin name:     4
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 12.7924) 
+  Part of net:       CAM_IO_1P8_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 4
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\4\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 26       < PIN >
+
+  pin number:   J1101.6
+  pin name:     6
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 13.1424) 
+  Part of net:       AGND_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 6
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\6\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 27       < PIN >
+
+  pin number:   J1101.8
+  pin name:     8
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 13.4924) 
+  Part of net:       OIS_EN_SYNC_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 8
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\8\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 28       < PIN >
+
+  pin number:   J1101.10
+  pin name:     10
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 13.8424) 
+  Part of net:       AGND_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 10
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\10\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 29       < PIN >
+
+  pin number:   J1101.12
+  pin name:     12
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 14.1924) 
+  Part of net:       CAMW_RESET_N_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 12
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\12\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 30       < PIN >
+
+  pin number:   J1101.14
+  pin name:     14
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 14.5424) 
+  Part of net:       AGND_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 14
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\14\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 31       < PIN >
+
+  pin number:   J1101.16
+  pin name:     16
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 14.8924) 
+  Part of net:       CAMW_MCLK_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 16
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\16\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 32       < PIN >
+
+  pin number:   J1101.18
+  pin name:     18
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 15.2424) 
+  Part of net:       AGND_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 18
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\18\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 33       < PIN >
+
+  pin number:   J1101.20
+  pin name:     20
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 15.5924) 
+  Part of net:       CCI_I2C1_SCL_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 20
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\20\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 34       < PIN >
+
+  pin number:   J1101.22
+  pin name:     22
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 15.9424) 
+  Part of net:       CCI_I2C1_SDA_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 22
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\22\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 35       < PIN >
+
+  pin number:   J1101.24
+  pin name:     24
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 16.2924) 
+  Part of net:       OIS_SDA_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 24
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\24\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 36       < PIN >
+
+  pin number:   J1101.26
+  pin name:     26
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 16.6424) 
+  Part of net:       OIS_SCL_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 26
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\26\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 37       < PIN >
+
+  pin number:   J1101.28
+  pin name:     28
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 16.9924) 
+  Part of net:       AGND_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 28
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\28\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 38       < PIN >
+
+  pin number:   J1101.30
+  pin name:     30
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 17.3424) 
+  Part of net:       CAMW_VCM_3P3_P11
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 30
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\30\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 39       < PIN >
+
+  pin number:   J1101.G6
+  pin name:     G6
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.3846 18.9024) 
+  Part of net:       CAMW_OIS_3P3_P11
+  Connected lines:     3 ( TOP )
+  Connected shapes:    3 ( TOP )
+
+  Padstack name:   HDRE0_65X0_32
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G6
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):G6
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = D:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_65x0_32.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 40       < PIN >
+
+  pin number:   J1101.G4
+  pin name:     G4
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.0296 18.4424) 
+  Part of net:       CAMW_OIS_3P3_P11
+  Connected lines:     2 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G4
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):G4
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 41       < PIN >
+
+  pin number:   J1101.32
+  pin name:     32
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 17.6924) 
+  Part of net:       AGND_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 32
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\32\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 42       < PIN >
+
+  pin number:   J1101.34
+  pin name:     34
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.3096 18.0424) 
+  Part of net:       AGND_P11
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 34
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\34\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 43       < PIN >
+
+  pin number:   J1000.G5
+  pin name:     G5
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.2404 29.4269) 
+  Part of net:       CAMW_DVDD_1P15_P10
+  Connected lines:     3 ( TOP )
+  Connected shapes:    3 ( TOP )
+
+  Padstack name:   HDRE0_65X0_32
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G5
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):G5
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = D:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_65x0_32.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 44       < PIN >
+
+  pin number:   J1000.G2
+  pin name:     G2
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.8854 29.8869) 
+  Part of net:       CAMW_DVDD_1P15_P10
+  Connected lines:     2 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G2
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):G2
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 2 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 45       < PIN >
+
+  pin number:   J1000.2
+  pin name:     2
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 30.2869) 
+  Part of net:       AGND_P10
+  Connected lines:     3 ( TOP )
+  Connected shapes:    3 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 2
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\2\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 46       < PIN >
+
+  pin number:   J1000.4
+  pin name:     4
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 30.6369) 
+  Part of net:       CAMW_MCLK_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 4
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\4\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 47       < PIN >
+
+  pin number:   J1000.6
+  pin name:     6
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 30.9869) 
+  Part of net:       AGND_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 6
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\6\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 48       < PIN >
+
+  pin number:   J1000.8
+  pin name:     8
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 31.3369) 
+  Part of net:       CAM_IO_1P8_P10
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 8
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\8\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 49       < PIN >
+
+  pin number:   J1000.10
+  pin name:     10
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 31.6869) 
+  Part of net:       N687207
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 10
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\10\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 50       < PIN >
+
+  pin number:   J1000.12
+  pin name:     12
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 32.0369) 
+  Part of net:       N687710
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 12
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\12\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 51       < PIN >
+
+  pin number:   J1000.14
+  pin name:     14
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 32.3869) 
+  element is on a dummy net
+  Number of connections: 0
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 14
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\14\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 52       < PIN >
+
+  pin number:   J1000.16
+  pin name:     16
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 32.7369) 
+  Part of net:       AGND_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 16
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\16\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 53       < PIN >
+
+  pin number:   J1000.18
+  pin name:     18
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 33.0869) 
+  Part of net:       CAMW_RESET_N_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 18
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\18\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 54       < PIN >
+
+  pin number:   J1000.20
+  pin name:     20
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 33.4369) 
+  Part of net:       OISW_SPI_CS_N_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 20
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\20\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 55       < PIN >
+
+  pin number:   J1000.22
+  pin name:     22
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 33.7869) 
+  Part of net:       OISW_SPI_CLK_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 22
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\22\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 56       < PIN >
+
+  pin number:   J1000.24
+  pin name:     24
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 34.1369) 
+  Part of net:       OISW_SPI_MOSI_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 24
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\24\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 57       < PIN >
+
+  pin number:   J1000.26
+  pin name:     26
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 34.4869) 
+  Part of net:       AGND_P10
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 26
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\26\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 58       < PIN >
+
+  pin number:   J1000.G4
+  pin name:     G4
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.8854 36.2869) 
+  Part of net:       CAMW_OIS_5P0_3P1_P10
+  Connected lines:     2 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G4
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):G4
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 59       < PIN >
+
+  pin number:   J1000.28
+  pin name:     28
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 34.8369) 
+  Part of net:       AGND_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 28
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\28\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 60       < PIN >
+
+  pin number:   J1000.30
+  pin name:     30
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 35.1869) 
+  Part of net:       CAMW_VCM_3P1_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 30
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\30\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 61       < PIN >
+
+  pin number:   J1000.32
+  pin name:     32
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 35.5369) 
+  Part of net:       AGND_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 32
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\32\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 62       < PIN >
+
+  pin number:   J1000.34
+  pin name:     34
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1654 35.8869) 
+  Part of net:       AGND_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 34
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\34\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 63       < PIN >
+
+  pin number:   J1000.G6
+  pin name:     G6
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.2404 36.7469) 
+  Part of net:       CAMW_OIS_5P0_3P1_P10
+  Connected lines:     3 ( TOP )
+  Connected shapes:    3 ( TOP )
+
+  Padstack name:   HDRE0_65X0_32
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G6
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):G6
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = D:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_65x0_32.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 64       < PIN >
+
+  pin number:   J0901.G5
+  pin name:     G5
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.5014 61.5824) 
+  Part of net:       GND_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_65X0_32
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G5
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):G5
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = D:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_65x0_32.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 65       < PIN >
+
+  pin number:   J0901.G2
+  pin name:     G2
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1464 62.0424) 
+  Part of net:       GND_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G2
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):G2
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 2 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 66       < PIN >
+
+  pin number:   J0901.2
+  pin name:     2
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 62.4424) 
+  Part of net:       CAM_IOVDD_1P8_P09
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 2
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\2\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 67       < PIN >
+
+  pin number:   J0901.4
+  pin name:     4
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 62.7924) 
+  Part of net:       CAM_VSYNC_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 4
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\4\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 68       < PIN >
+
+  pin number:   J0901.6
+  pin name:     6
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 63.1424) 
+  Part of net:       CAMW_RESET_N_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 6
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\6\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 69       < PIN >
+
+  pin number:   J0901.8
+  pin name:     8
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 63.4924) 
+  Part of net:       WIDE_CAM_SCL8_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 8
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\8\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 70       < PIN >
+
+  pin number:   J0901.10
+  pin name:     10
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 63.8424) 
+  Part of net:       WIDE_CAM_SDA8_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 10
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\10\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 71       < PIN >
+
+  pin number:   J0901.12
+  pin name:     12
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 64.1924) 
+  Part of net:       GND_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 12
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\12\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 72       < PIN >
+
+  pin number:   J0901.14
+  pin name:     14
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 64.5424) 
+  Part of net:       CAMW_MCLK_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 14
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\14\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 73       < PIN >
+
+  pin number:   J0901.16
+  pin name:     16
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 64.8924) 
+  Part of net:       GND_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 16
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\16\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 74       < PIN >
+
+  pin number:   J0901.18
+  pin name:     18
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 65.2424) 
+  Part of net:       CAMW_DVDD_1P1_P09
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 18
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\18\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 75       < PIN >
+
+  pin number:   J0901.20
+  pin name:     20
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 65.5924) 
+  Part of net:       CAMW_DVDD_1P1_P09
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 20
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\20\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 76       < PIN >
+
+  pin number:   J0901.22
+  pin name:     22
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 65.9424) 
+  Part of net:       CAMW_DVDD_1P1_P09
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 22
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\22\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 77       < PIN >
+
+  pin number:   J0901.24
+  pin name:     24
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 66.2924) 
+  Part of net:       CAMW_OIS_2P8_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 24
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\24\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 78       < PIN >
+
+  pin number:   J0901.26
+  pin name:     26
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 66.6424) 
+  Part of net:       CAMW_OIS_2P8_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 26
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\26\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 79       < PIN >
+
+  pin number:   J0901.28
+  pin name:     28
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 66.9924) 
+  Part of net:       GND_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 28
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\28\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 80       < PIN >
+
+  pin number:   J0901.30
+  pin name:     30
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 67.3424) 
+  Part of net:       GND_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 30
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\30\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 81       < PIN >
+
+  pin number:   J0901.32
+  pin name:     32
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 67.6924) 
+  element is on a dummy net
+  Number of connections: 0
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 32
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\32\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 82       < PIN >
+
+  pin number:   J0901.34
+  pin name:     34
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.4264 68.0424) 
+  Part of net:       CAMW_AVDD_2P8_P09
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 34
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\34\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 83       < PIN >
+
+  pin number:   J0901.G6
+  pin name:     G6
+  pinuse:       UNSPEC
+
+  location-xy:  (-30.5014 68.9024) 
+  Part of net:       GND_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_65X0_32
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G6
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):G6
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = D:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_65x0_32.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 84       < PIN >
+
+  pin number:   J0901.G4
+  pin name:     G4
+  pinuse:       UNSPEC
+
+  location-xy:  (-31.1464 68.4424) 
+  Part of net:       GND_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G4
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):G4
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 85       < PIN >
+
+  pin number:   J1304.G1
+  pin name:     G1
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.8564 -37.9576) 
+  Part of net:       GND_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G1
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):G1
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 2 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 86       < PIN >
+
+  pin number:   J1304.7
+  pin name:     7
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -36.5076) 
+  Part of net:       MIPI_WIDE_TRIO1_C_P13
+  part of bundle:    C-PHY_13_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 7
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\7\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1303.7 to J1304.7  min= 36.9821 MM  max= 37.2821 MM  actual= 37.0078 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (7.1323,-36.5076) pin J1303.7,UNSPEC,BOTTOM/BOTTOM
+      0.5177 MM cline BOTTOM
+            (6.6146,-36.5076) via TOP/BOTTOM
+      32.8759 MM cline LAYER_2
+            (-26.0339,-36.7689) via TOP/BOTTOM
+      3.6141 MM cline TOP
+            (-29.5764,-36.5076) pin J1304.7,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1303.7:J1304.7
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 87       < PIN >
+
+  pin number:   J1304.5
+  pin name:     5
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -36.8576) 
+  Part of net:       MIPI_WIDE_TRIO2_A_P13
+  part of bundle:    C-PHY_13_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 5
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\5\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1303.5 to J1304.5  min= 36.9821 MM  max= 37.2821 MM  actual= 37.1528 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (7.1323,-36.8576) pin J1303.5,UNSPEC,BOTTOM/BOTTOM
+      0.8228 MM cline BOTTOM
+            (6.3214,-36.8540) via TOP/BOTTOM
+      35.2047 MM cline LAYER_2
+            (-28.4511,-36.8576) via TOP/BOTTOM
+      1.1253 MM cline TOP
+            (-29.5764,-36.8576) pin J1304.5,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1303.5:J1304.5
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 88       < PIN >
+
+  pin number:   J1304.3
+  pin name:     3
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -37.2076) 
+  Part of net:       MIPI_WIDE_TRIO2_B_P13
+  part of bundle:    C-PHY_13_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 3
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\3\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1303.3 to J1304.3  min= 36.9821 MM  max= 37.2821 MM  actual= 37.118 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (7.1323,-37.2076) pin J1303.3,UNSPEC,BOTTOM/BOTTOM
+      0.5325 MM cline BOTTOM
+            (6.5998,-37.2076) via TOP/BOTTOM
+      35.7896 MM cline LAYER_2
+            (-28.7805,-37.2076) via TOP/BOTTOM
+      0.7959 MM cline TOP
+            (-29.5764,-37.2076) pin J1304.3,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1303.3:J1304.3
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 89       < PIN >
+
+  pin number:   J1304.1
+  pin name:     1
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -37.5576) 
+  Part of net:       MIPI_WIDE_TRIO2_C_P13
+  part of bundle:    C-PHY_13_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 1
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\1\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1303.1 to J1304.1  min= 37.1299 MM  max= 37.1578 MM  actual= 37.1321 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (7.1323,-37.5576) pin J1303.1,UNSPEC,BOTTOM/BOTTOM
+      0.8139 MM cline BOTTOM
+            (6.3243,-37.5635) via TOP/BOTTOM
+      35.18 MM cline LAYER_2
+            (-28.4382,-37.5576) via TOP/BOTTOM
+      1.1382 MM cline TOP
+            (-29.5764,-37.5576) pin J1304.1,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1303.1:J1304.1
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 90       < PIN >
+
+  pin number:   J1304.15
+  pin name:     15
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -35.1076) 
+  Part of net:       MIPI_WIDE_TRIO0_C_P13
+  part of bundle:    C-PHY_13_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 15
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\15\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1304.15 to J1303.15  min= 36.9821 MM  max= 37.2821 MM  actual= 37.251 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (-29.5764,-35.1076) pin J1304.15,UNSPEC,TOP/TOP
+      0.6191 MM cline TOP
+            (-28.9573,-35.1076) via TOP/BOTTOM
+      7.266 MM cline LAYER_2
+      10.1958 MM cline LAYER_2
+      18.6524 MM cline LAYER_2
+            (6.6146,-35.1076) via TOP/BOTTOM
+      0.5177 MM cline BOTTOM
+            (7.1323,-35.1076) pin J1303.15,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J1303.15:J1304.15
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 91       < PIN >
+
+  pin number:   J1304.13
+  pin name:     13
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -35.4576) 
+  Part of net:       GND_P13
+  Connected lines:     2 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 13
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\13\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 92       < PIN >
+
+  pin number:   J1304.11
+  pin name:     11
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -35.8076) 
+  Part of net:       MIPI_WIDE_TRIO1_A_P13
+  part of bundle:    C-PHY_13_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 11
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\11\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1303.11 to J1304.11  min= 36.9821 MM  max= 37.2821 MM  actual= 37.0087 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (7.1323,-35.8076) pin J1303.11,UNSPEC,BOTTOM/BOTTOM
+      0.5325 MM cline BOTTOM
+            (6.5998,-35.8076) via TOP/BOTTOM
+      32.8765 MM cline LAYER_2
+            (-26.0725,-36.1272) via TOP/BOTTOM
+      3.5997 MM cline TOP
+            (-29.5764,-35.8076) pin J1304.11,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1303.11:J1304.11
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 93       < PIN >
+
+  pin number:   J1304.9
+  pin name:     9
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -36.1576) 
+  Part of net:       MIPI_WIDE_TRIO1_B_P13
+  part of bundle:    C-PHY_13_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 9
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\9\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1303.9 to J1304.9  min= 36.9821 MM  max= 37.2821 MM  actual= 37.0225 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (7.1323,-36.1576) pin J1303.9,UNSPEC,BOTTOM/BOTTOM
+      0.8235 MM cline BOTTOM
+            (6.3088,-36.1576) via TOP/BOTTOM
+      32.1821 MM cline LAYER_2
+            (-25.6446,-36.4514) via TOP/BOTTOM
+      4.0169 MM cline TOP
+            (-29.5764,-36.1576) pin J1304.9,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1303.9:J1304.9
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 94       < PIN >
+
+  pin number:   J1304.25
+  pin name:     25
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -33.3576) 
+  Part of net:       CAMW_DVDD_1P0_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 25
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\25\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 95       < PIN >
+
+  pin number:   J1304.23
+  pin name:     23
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -33.7076) 
+  Part of net:       GND_P13
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 23
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\23\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 96       < PIN >
+
+  pin number:   J1304.21
+  pin name:     21
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -34.0576) 
+  element is on a dummy net
+  Number of connections: 0
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 21
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\21\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 97       < PIN >
+
+  pin number:   J1304.19
+  pin name:     19
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -34.4076) 
+  Part of net:       MIPI_WIDE_TRIO0_A_P13
+  part of bundle:    C-PHY_13_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 19
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\19\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1303.19 to J1304.19  min= 36.9821 MM  max= 37.2821 MM  actual= 37.2799 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (7.1323,-34.4076) pin J1303.19,UNSPEC,BOTTOM/BOTTOM
+      0.5325 MM cline BOTTOM
+            (6.5998,-34.4076) via TOP/BOTTOM
+      18.6664 MM cline LAYER_2
+      10.22 MM cline LAYER_2
+      7.2149 MM cline LAYER_2
+            (-28.9304,-34.4076) via TOP/BOTTOM
+      0.646 MM cline TOP
+            (-29.5764,-34.4076) pin J1304.19,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1303.19:J1304.19
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 98       < PIN >
+
+  pin number:   J1304.17
+  pin name:     17
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -34.7576) 
+  Part of net:       MIPI_WIDE_TRIO0_B_P13
+  part of bundle:    C-PHY_13_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 17
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\17\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1304.17 to J1303.17  min= 36.9821 MM  max= 37.2821 MM  actual= 37.237 MM
+                   target=  (MIPI_WIDE_TRIO2_C_P13) J1303.1 to J1304.1
+            (-29.5764,-34.7576) pin J1304.17,UNSPEC,TOP/TOP
+      0.9506 MM cline TOP
+            (-28.6258,-34.7576) via TOP/BOTTOM
+      6.88 MM cline LAYER_2
+      10.2234 MM cline LAYER_2
+      18.3691 MM cline LAYER_2
+            (6.3243,-34.7635) via TOP/BOTTOM
+      0.8139 MM cline BOTTOM
+            (7.1323,-34.7576) pin J1303.17,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J1303.17:J1304.17
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 99       < PIN >
+
+  pin number:   J1304.33
+  pin name:     33
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -31.9576) 
+  Part of net:       CAM_IOVDD_1P8_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 33
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\33\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 100      < PIN >
+
+  pin number:   J1304.31
+  pin name:     31
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -32.3076) 
+  Part of net:       CAMW_DVDD_1P0_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 31
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\31\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 101      < PIN >
+
+  pin number:   J1304.29
+  pin name:     29
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -32.6576) 
+  Part of net:       CAMW_DVDD_1P0_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 29
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\29\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 102      < PIN >
+
+  pin number:   J1304.27
+  pin name:     27
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 -33.0076) 
+  Part of net:       CAMW_DVDD_1P0_P13
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 27
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):\27\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 103      < PIN >
+
+  pin number:   J1304.G3
+  pin name:     G3
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.8564 -31.5576) 
+  Part of net:       GND_P13
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G3
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins681679@connector.\cn_34p_6g.normal\(chips):G3
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.5014, -34.7576  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 104      < PIN >
+
+  pin number:   J1101.G1
+  pin name:     G1
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.7396 12.0424) 
+  Part of net:       CAMW_DVDD_1P15_P11
+  Connected lines:     2 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G1
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):G1
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 2 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 105      < PIN >
+
+  pin number:   J1101.1
+  pin name:     1
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 12.4424) 
+  Part of net:       AGND_P11
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 1
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\1\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 106      < PIN >
+
+  pin number:   J1101.11
+  pin name:     11
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 14.1924) 
+  Part of net:       CSI5_A1_LN1_P_P11
+  part of bundle:    C-PHY_11_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 11
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\11\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1100.11 to J1101.11  min= 37.3144 MM  max= 37.6144 MM  actual= 37.3905 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (7.2416,14.1924) pin J1100.11,UNSPEC,BOTTOM/BOTTOM
+      0.458 MM cline BOTTOM
+            (6.7846,14.1947) via TOP/BOTTOM
+      36.9326 MM cline TOP
+            (-29.4596,14.1924) pin J1101.11,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1101.11:J1100.11
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 107      < PIN >
+
+  pin number:   J1101.9
+  pin name:     9
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 13.8424) 
+  Part of net:       AGND_P11
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 9
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\9\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 108      < PIN >
+
+  pin number:   J1101.7
+  pin name:     7
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 13.4924) 
+  Part of net:       CSI5_C0_LN0_M_P11
+  part of bundle:    C-PHY_11_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 7
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\7\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1100.7 to J1101.7  min= 37.3144 MM  max= 37.6144 MM  actual= 37.4845 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (7.2416,13.4924) pin J1100.7,UNSPEC,BOTTOM/BOTTOM
+      0.5019 MM cline BOTTOM
+            (6.7407,13.4947) via TOP/BOTTOM
+      36.9826 MM cline TOP
+            (-29.4596,13.4924) pin J1101.7,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1101.7:J1100.7
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 109      < PIN >
+
+  pin number:   J1101.5
+  pin name:     5
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 13.1424) 
+  Part of net:       CSI5_B0_LN0_P_P11
+  part of bundle:    C-PHY_11_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 5
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\5\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1100.5 to J1101.5  min= 37.4453 MM  max= 37.4746 MM  actual= 37.4644 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (7.2416,13.1424) pin J1100.5,UNSPEC,BOTTOM/BOTTOM
+      0.8334 MM cline BOTTOM
+            (6.4082,13.1424) via TOP/BOTTOM
+      36.631 MM cline TOP
+            (-29.4596,13.1424) pin J1101.5,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1101.5:J1100.5
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 110      < PIN >
+
+  pin number:   J1101.3
+  pin name:     3
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 12.7924) 
+  Part of net:       CSI5_A0_CLK_M_P11
+  part of bundle:    C-PHY_11_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 3
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\3\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1101.3 to J1100.3  min= 37.3144 MM  max= 37.6144 MM  actual= 37.4858 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (-29.4596,12.7924) pin J1101.3,UNSPEC,TOP/TOP
+      37.0279 MM cline TOP
+            (6.7846,12.7947) via TOP/BOTTOM
+      0.458 MM cline BOTTOM
+            (7.2416,12.7924) pin J1100.3,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J1101.3:J1100.3
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 111      < PIN >
+
+  pin number:   J1101.19
+  pin name:     19
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 15.5924) 
+  Part of net:       CSI5_A2_LN2_M_P11
+  part of bundle:    C-PHY_11_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 19
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\19\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1100.19 to J1101.19  min= 37.3144 MM  max= 37.6144 MM  actual= 37.3955 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (7.2416,15.5924) pin J1100.19,UNSPEC,BOTTOM/BOTTOM
+      0.458 MM cline BOTTOM
+            (6.7846,15.5947) via TOP/BOTTOM
+      36.9375 MM cline TOP
+            (-29.4596,15.5924) pin J1101.19,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1101.19:J1100.19
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 112      < PIN >
+
+  pin number:   J1101.17
+  pin name:     17
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 15.2424) 
+  Part of net:       AGND_P11
+  Connected lines:     2 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 17
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\17\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 113      < PIN >
+
+  pin number:   J1101.15
+  pin name:     15
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 14.8924) 
+  Part of net:       CSI5_C1_LN2_P_P11
+  part of bundle:    C-PHY_11_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 15
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\15\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1100.15 to J1101.15  min= 37.3144 MM  max= 37.6144 MM  actual= 37.3928 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (7.2416,14.8924) pin J1100.15,UNSPEC,BOTTOM/BOTTOM
+      0.5019 MM cline BOTTOM
+            (6.7407,14.8947) via TOP/BOTTOM
+      36.891 MM cline TOP
+            (-29.4596,14.8924) pin J1101.15,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1101.15:J1100.15
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 114      < PIN >
+
+  pin number:   J1101.13
+  pin name:     13
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 14.5424) 
+  Part of net:       CSI5_B1_LN1_M_P11
+  part of bundle:    C-PHY_11_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 13
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\13\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1100.13 to J1101.13  min= 37.3144 MM  max= 37.6144 MM  actual= 37.3982 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (7.2416,14.5424) pin J1100.13,UNSPEC,BOTTOM/BOTTOM
+      0.8334 MM cline BOTTOM
+            (6.4082,14.5424) via TOP/BOTTOM
+      36.5648 MM cline TOP
+            (-29.4596,14.5424) pin J1101.13,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1101.13:J1100.13
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 115      < PIN >
+
+  pin number:   J1101.29
+  pin name:     29
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 17.3424) 
+  Part of net:       CAMW_AVDD_2P8_P11
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 29
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\29\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 116      < PIN >
+
+  pin number:   J1101.27
+  pin name:     27
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 16.9924) 
+  Part of net:       AGND_P11
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 27
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\27\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 117      < PIN >
+
+  pin number:   J1101.25
+  pin name:     25
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 16.6424) 
+  Part of net:       AGND_P11
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 25
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\25\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 118      < PIN >
+
+  pin number:   J1101.23
+  pin name:     23
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 16.2924) 
+  Part of net:       CSI5_C2_LN3_M_P11
+  part of bundle:    C-PHY_11_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 23
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\23\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1100.23 to J1101.23  min= 37.3144 MM  max= 37.6144 MM  actual= 37.3246 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (7.2416,16.2924) pin J1100.23,UNSPEC,BOTTOM/BOTTOM
+      0.5019 MM cline BOTTOM
+            (6.7407,16.2947) via TOP/BOTTOM
+      36.8228 MM cline TOP
+            (-29.4596,16.2924) pin J1101.23,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1101.23:J1100.23
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 119      < PIN >
+
+  pin number:   J1101.21
+  pin name:     21
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 15.9424) 
+  Part of net:       CSI5_B2_LN3_P_P11
+  part of bundle:    C-PHY_11_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 21
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\21\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1101.21 to J1100.21  min= 37.3144 MM  max= 37.6144 MM  actual= 37.5953 MM
+                   target=  (CSI5_B0_LN0_P_P11) J1100.5 to J1101.5
+            (-29.4596,15.9424) pin J1101.21,UNSPEC,TOP/TOP
+      36.7619 MM cline TOP
+            (6.4082,15.9424) via TOP/BOTTOM
+      0.8334 MM cline BOTTOM
+            (7.2416,15.9424) pin J1100.21,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J1101.21:J1100.21
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 120      < PIN >
+
+  pin number:   J1101.G3
+  pin name:     G3
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.7396 18.4424) 
+  Part of net:       CAMW_OIS_3P3_P11
+  Connected lines:     2 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G3
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):G3
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 121      < PIN >
+
+  pin number:   J1101.33
+  pin name:     33
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 18.0424) 
+  Part of net:       AGND_P11
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 33
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\33\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 122      < PIN >
+
+  pin number:   J1101.31
+  pin name:     31
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.4596 17.6924) 
+  Part of net:       CAMW_AVDD_1P8_P11
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 31
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins670800@connector.\cn_34p_6g.normal\(chips):\31\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.3846, 15.2424  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 123      < PIN >
+
+  pin number:   J1000.G1
+  pin name:     G1
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5954 29.8869) 
+  Part of net:       CAMW_DVDD_1P15_P10
+  Connected lines:     2 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G1
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):G1
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 2 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 124      < PIN >
+
+  pin number:   J1000.7
+  pin name:     7
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 31.3369) 
+  Part of net:       CSI2_C0_LN0_M_P10
+  part of bundle:    C-PHY_10_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 7
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\7\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1001.7 to J1000.7  min= 37.3894 MM  max= 37.6894 MM  actual= 37.4097 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (7.3858,31.3369) pin J1001.7,UNSPEC,BOTTOM/BOTTOM
+      0.5019 MM cline BOTTOM
+            (6.8849,31.3392) via TOP/BOTTOM
+      36.9079 MM cline TOP
+            (-29.3154,31.3369) pin J1000.7,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1000.7:J1001.7
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 125      < PIN >
+
+  pin number:   J1000.5
+  pin name:     5
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 30.9869) 
+  Part of net:       CSI2_B0_LN0_P_P10
+  part of bundle:    C-PHY_10_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 5
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\5\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1001.5 to J1000.5  min= 37.3894 MM  max= 37.6894 MM  actual= 37.4103 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (7.3858,30.9869) pin J1001.5,UNSPEC,BOTTOM/BOTTOM
+      0.8334 MM cline BOTTOM
+            (6.5524,30.9869) via TOP/BOTTOM
+      36.5769 MM cline TOP
+            (-29.3154,30.9869) pin J1000.5,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1000.5:J1001.5
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 126      < PIN >
+
+  pin number:   J1000.3
+  pin name:     3
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 30.6369) 
+  Part of net:       CSI2_A0_CLK_M_P10
+  part of bundle:    C-PHY_10_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 3
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\3\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1001.3 to J1000.3  min= 37.3894 MM  max= 37.6894 MM  actual= 37.4573 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (7.3858,30.6369) pin J1001.3,UNSPEC,BOTTOM/BOTTOM
+      0.458 MM cline BOTTOM
+            (6.9288,30.6392) via TOP/BOTTOM
+      36.9993 MM cline TOP
+            (-29.3154,30.6369) pin J1000.3,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1000.3:J1001.3
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 127      < PIN >
+
+  pin number:   J1000.1
+  pin name:     1
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 30.2869) 
+  Part of net:       AGND_P10
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 1
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\1\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 128      < PIN >
+
+  pin number:   J1000.17
+  pin name:     17
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 33.0869) 
+  Part of net:       AGND_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 17
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\17\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 129      < PIN >
+
+  pin number:   J1000.15
+  pin name:     15
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 32.7369) 
+  Part of net:       CSI2_C1_LN2_P_P10
+  part of bundle:    C-PHY_10_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 15
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\15\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1001.15 to J1000.15  min= 37.3894 MM  max= 37.6894 MM  actual= 37.5019 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (7.3858,32.7369) pin J1001.15,UNSPEC,BOTTOM/BOTTOM
+      0.5019 MM cline BOTTOM
+            (6.8849,32.7392) via TOP/BOTTOM
+      37 MM cline TOP
+            (-29.3154,32.7369) pin J1000.15,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1000.15:J1001.15
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 130      < PIN >
+
+  pin number:   J1000.13
+  pin name:     13
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 32.3869) 
+  Part of net:       CSI2_B1_LN1_M_P10
+  part of bundle:    C-PHY_10_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 13
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\13\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1001.13 to J1000.13  min= 37.3894 MM  max= 37.6894 MM  actual= 37.5096 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (7.3858,32.3869) pin J1001.13,UNSPEC,BOTTOM/BOTTOM
+      0.8334 MM cline BOTTOM
+            (6.5524,32.3869) via TOP/BOTTOM
+      36.6762 MM cline TOP
+            (-29.3154,32.3869) pin J1000.13,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1000.13:J1001.13
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 131      < PIN >
+
+  pin number:   J1000.11
+  pin name:     11
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 32.0369) 
+  Part of net:       CSI2_A1_LN1_P_P10
+  part of bundle:    C-PHY_10_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 11
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\11\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1001.11 to J1000.11  min= 37.3894 MM  max= 37.6894 MM  actual= 37.5019 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (7.3858,32.0369) pin J1001.11,UNSPEC,BOTTOM/BOTTOM
+      0.458 MM cline BOTTOM
+            (6.9288,32.0392) via TOP/BOTTOM
+      37.0439 MM cline TOP
+            (-29.3154,32.0369) pin J1000.11,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1000.11:J1001.11
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 132      < PIN >
+
+  pin number:   J1000.9
+  pin name:     9
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 31.6869) 
+  Part of net:       AGND_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 9
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\9\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 133      < PIN >
+
+  pin number:   J1000.25
+  pin name:     25
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 34.4869) 
+  Part of net:       AGND_P10
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 25
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\25\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 134      < PIN >
+
+  pin number:   J1000.23
+  pin name:     23
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 34.1369) 
+  Part of net:       CSI2_C2_LN3_M_P10
+  part of bundle:    C-PHY_10_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 23
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\23\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1001.23 to J1000.23  min= 37.3858 MM  max= 37.5597 MM  actual= 37.5394 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (7.3858,34.1369) pin J1001.23,UNSPEC,BOTTOM/BOTTOM
+      0.5019 MM cline BOTTOM
+            (6.8849,34.1392) via TOP/BOTTOM
+      37.0375 MM cline TOP
+            (-29.3154,34.1369) pin J1000.23,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1000.23:J1001.23
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 135      < PIN >
+
+  pin number:   J1000.21
+  pin name:     21
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 33.7869) 
+  Part of net:       CSI2_B2_LN3_P_P10
+  part of bundle:    C-PHY_10_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 21
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\21\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1000.21 to J1001.21  min= 37.3894 MM  max= 37.6894 MM  actual= 37.5341 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (-29.3154,33.7869) pin J1000.21,UNSPEC,TOP/TOP
+      36.7007 MM cline TOP
+            (6.5524,33.7869) via TOP/BOTTOM
+      0.8334 MM cline BOTTOM
+            (7.3858,33.7869) pin J1001.21,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J1000.21:J1001.21
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 136      < PIN >
+
+  pin number:   J1000.19
+  pin name:     19
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 33.4369) 
+  Part of net:       CSI2_A2_LN2_M_P10
+  part of bundle:    C-PHY_10_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 19
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\19\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J1001.19 to J1000.19  min= 37.3894 MM  max= 37.6894 MM  actual= 37.5358 MM
+                   target=  (CSI2_C2_LN3_M_P10) J1001.23 to J1000.23
+            (7.3858,33.4369) pin J1001.19,UNSPEC,BOTTOM/BOTTOM
+      0.458 MM cline BOTTOM
+            (6.9288,33.4392) via TOP/BOTTOM
+      37.0779 MM cline TOP
+            (-29.3154,33.4369) pin J1000.19,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J1000.19:J1001.19
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 137      < PIN >
+
+  pin number:   J1000.G3
+  pin name:     G3
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5954 36.2869) 
+  Part of net:       CAMW_OIS_5P0_3P1_P10
+  Connected lines:     2 ( TOP )
+  Connected shapes:    2 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G3
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):G3
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 138      < PIN >
+
+  pin number:   J1000.33
+  pin name:     33
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 35.8869) 
+  Part of net:       AGND_P10
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 33
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\33\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 139      < PIN >
+
+  pin number:   J1000.31
+  pin name:     31
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 35.5369) 
+  Part of net:       AGND_P10
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 31
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\31\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 140      < PIN >
+
+  pin number:   J1000.29
+  pin name:     29
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 35.1869) 
+  Part of net:       CAMW_AVDD_2P9_P10
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 29
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\29\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 141      < PIN >
+
+  pin number:   J1000.27
+  pin name:     27
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.3154 34.8369) 
+  Part of net:       CAMW_AVDD_1P8_P10
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 27
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins668981@connector.\cn_34p_6g.normal\(chips):\27\
+
+  Inherited properties attached to symbol pin
+    Symbol: CON_P34_1_3X7_58_DP_BS0_35_HD at -30.2404, 33.0869  FIXED
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 142      < PIN >
+
+  pin number:   J0901.G1
+  pin name:     G1
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.8564 62.0424) 
+  Part of net:       GND_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G1
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):G1
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  Element has 2 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 143      < PIN >
+
+  pin number:   J0901.5
+  pin name:     5
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 63.1424) 
+  Part of net:       MIPI_WIDE_TRIO2_B_P09
+  part of bundle:    C-PHY_09_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 5
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\5\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0901.5 to J0900.5  min= 37.4245 MM  max= 37.7245 MM  actual= 37.4776 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (-29.5764,63.1424) pin J0901.5,UNSPEC,TOP/TOP
+      36.9451 MM cline TOP
+            (6.5998,63.1424) via TOP/BOTTOM
+      0.5325 MM cline BOTTOM
+            (7.1323,63.1424) pin J0900.5,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J0901.5:J0900.5
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 144      < PIN >
+
+  pin number:   J0901.3
+  pin name:     3
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 62.7924) 
+  Part of net:       MIPI_WIDE_TRIO2_C_P09
+  part of bundle:    C-PHY_09_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 3
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\3\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0901.3 to J0900.3  min= 37.4245 MM  max= 37.7245 MM  actual= 37.4747 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (-29.5764,62.7924) pin J0901.3,UNSPEC,TOP/TOP
+      36.6608 MM cline TOP
+            (6.3243,62.7865) via TOP/BOTTOM
+      0.8139 MM cline BOTTOM
+            (7.1323,62.7924) pin J0900.3,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J0901.3:J0900.3
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 145      < PIN >
+
+  pin number:   J0901.1
+  pin name:     1
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 62.4424) 
+  Part of net:       GND_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 1
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\1\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Element has 1 dimensions on it.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 146      < PIN >
+
+  pin number:   J0901.15
+  pin name:     15
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 64.8924) 
+  Part of net:       GND_P09
+  Connected lines:     2 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 15
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\15\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 147      < PIN >
+
+  pin number:   J0901.13
+  pin name:     13
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 64.5424) 
+  Part of net:       MIPI_WIDE_TRIO1_A_P09
+  part of bundle:    C-PHY_09_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 13
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\13\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0901.13 to J0900.13  min= 37.4245 MM  max= 37.7245 MM  actual= 37.6995 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (-29.5764,64.5424) pin J0901.13,UNSPEC,TOP/TOP
+      37.167 MM cline TOP
+            (6.5998,64.5424) via TOP/BOTTOM
+      0.5325 MM cline BOTTOM
+            (7.1323,64.5424) pin J0900.13,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J0901.13:J0900.13
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 148      < PIN >
+
+  pin number:   J0901.11
+  pin name:     11
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 64.1924) 
+  Part of net:       MIPI_WIDE_TRIO1_B_P09
+  part of bundle:    C-PHY_09_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 11
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\11\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0901.11 to J0900.11  min= 37.4245 MM  max= 37.7245 MM  actual= 37.637 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (-29.5764,64.1924) pin J0901.11,UNSPEC,TOP/TOP
+      36.8135 MM cline TOP
+            (6.3088,64.1924) via TOP/BOTTOM
+      0.8235 MM cline BOTTOM
+            (7.1323,64.1924) pin J0900.11,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J0901.11:J0900.11
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 149      < PIN >
+
+  pin number:   J0901.9
+  pin name:     9
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 63.8424) 
+  Part of net:       MIPI_WIDE_TRIO1_C_P09
+  part of bundle:    C-PHY_09_2_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 9
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\9\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0901.9 to J0900.9  min= 37.5495 MM  max= 37.5915 MM  actual= 37.5745 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (-29.5764,63.8424) pin J0901.9,UNSPEC,TOP/TOP
+      37.0568 MM cline TOP
+            (6.6146,63.8424) via TOP/BOTTOM
+      0.5177 MM cline BOTTOM
+            (7.1323,63.8424) pin J0900.9,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J0901.9:J0900.9
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 150      < PIN >
+
+  pin number:   J0901.7
+  pin name:     7
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 63.4924) 
+  Part of net:       MIPI_WIDE_TRIO2_A_P09
+  part of bundle:    C-PHY_09_3_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 7
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\7\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0901.7 to J0900.7  min= 37.4245 MM  max= 37.7245 MM  actual= 37.5553 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (-29.5764,63.4924) pin J0901.7,UNSPEC,TOP/TOP
+      36.7324 MM cline TOP
+            (6.3214,63.4960) via TOP/BOTTOM
+      0.8228 MM cline BOTTOM
+            (7.1323,63.4924) pin J0900.7,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J0901.7:J0900.7
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 151      < PIN >
+
+  pin number:   J0901.23
+  pin name:     23
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 66.2924) 
+  element is on a dummy net
+  Number of connections: 0
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 23
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\23\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 152      < PIN >
+
+  pin number:   J0901.21
+  pin name:     21
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 65.9424) 
+  Part of net:       MIPI_WIDE_TRIO0_A_P09
+  part of bundle:    C-PHY_09_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 21
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\21\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0901.21 to J0900.21  min= 37.4245 MM  max= 37.7245 MM  actual= 37.4419 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (-29.5764,65.9424) pin J0901.21,UNSPEC,TOP/TOP
+      2.7516 MM cline TOP
+            (-26.9718,66.2119) via TOP/BOTTOM
+      5.2677 MM cline LAYER_2
+      10.0686 MM cline LAYER_2
+      18.8363 MM cline LAYER_2
+            (6.6146,65.9424) via TOP/BOTTOM
+      0.5177 MM cline BOTTOM
+            (7.1323,65.9424) pin J0900.21,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J0900.21:J0901.21
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 153      < PIN >
+
+  pin number:   J0901.19
+  pin name:     19
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 65.5924) 
+  Part of net:       MIPI_WIDE_TRIO0_B_P09
+  part of bundle:    C-PHY_09_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 19
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\19\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0900.19 to J0901.19  min= 37.4245 MM  max= 37.7245 MM  actual= 37.4415 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (7.1323,65.5924) pin J0900.19,UNSPEC,BOTTOM/BOTTOM
+      0.8228 MM cline BOTTOM
+            (6.3214,65.5960) via TOP/BOTTOM
+      18.6668 MM cline LAYER_2
+      9.9522 MM cline LAYER_2
+      5.8298 MM cline LAYER_2
+            (-27.4734,65.8367) via TOP/BOTTOM
+      2.17 MM cline TOP
+            (-29.5764,65.5924) pin J0901.19,UNSPEC,TOP/TOP
+
+  Member of groups:
+    PIN_PAIR        : J0901.19:J0900.19
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 154      < PIN >
+
+  pin number:   J0901.17
+  pin name:     17
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 65.2424) 
+  Part of net:       MIPI_WIDE_TRIO0_C_P09
+  part of bundle:    C-PHY_09_1_A
+
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 17
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\17\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+
+  Constraint information:
+    (RDly) J0901.17 to J0900.17  min= 37.4245 MM  max= 37.7245 MM  actual= 37.4956 MM
+                   target=  (MIPI_WIDE_TRIO1_C_P09) J0901.9 to J0900.9
+            (-29.5764,65.2424) pin J0901.17,UNSPEC,TOP/TOP
+      2.691 MM cline TOP
+            (-26.9574,65.4994) via TOP/BOTTOM
+      34.2721 MM cline LAYER_2
+            (6.5998,65.2424) via TOP/BOTTOM
+      0.5325 MM cline BOTTOM
+            (7.1323,65.2424) pin J0900.17,UNSPEC,BOTTOM/BOTTOM
+
+  Member of groups:
+    PIN_PAIR        : J0901.17:J0900.17
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 155      < PIN >
+
+  pin number:   J0901.33
+  pin name:     33
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 68.0424) 
+  Part of net:       CAMW_AF_2P8_P09
+  Connected lines:     1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 33
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\33\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 156      < PIN >
+
+  pin number:   J0901.31
+  pin name:     31
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 67.6924) 
+  Part of net:       GND_P09
+  Connected lines:     2 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 31
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\31\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 157      < PIN >
+
+  pin number:   J0901.29
+  pin name:     29
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 67.3424) 
+  Part of net:       OIS_SCP_SCL6_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 29
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\29\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 158      < PIN >
+
+  pin number:   J0901.27
+  pin name:     27
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 66.9924) 
+  Part of net:       OIS_SCP_SDA6_P09
+  Connected lines:     1 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 27
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\27\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 159      < PIN >
+
+  pin number:   J0901.25
+  pin name:     25
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.5764 66.6424) 
+  Part of net:       GND_P09
+  Connected lines:     2 ( TOP )
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_55X0_18
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = 25
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):\25\
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_55x0_18.pad
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 160      < PIN >
+
+  pin number:   J0901.G3
+  pin name:     G3
+  pinuse:       UNSPEC
+
+  location-xy:  (-29.8564 68.4424) 
+  Part of net:       GND_P09
+  Connected shapes:    1 ( TOP )
+
+  Padstack name:   HDRE0_45X0_38S0_35X0_28
+  Usage:           Surface_pin  
+
+  padstack defined only on TOP
+  padstack rotation:   180.000  degrees
+
+  Attached text:
+   class      = PACKAGE GEOMETRY
+   subclass   = PIN_NUMBER
+   value      = G3
+
+  Logical Path: @n2n3_m18_n16_test_fpc_20230824_1805.schematic1(sch_1):ins751702@connector.\cn_34p_6g.normal\(chips):G3
+
+  Properties attached to Padstack:
+    LIBRARY_PATH      = E:/ShareCache/MIPCB/xiaomi_lib/geometeries/pad
+                        s/hdre0_45x0_38s0_35x0_28.pad
+
+  ~ ~ ~ ~ ~ ~ ~end-of-file~ ~ ~ ~ ~ ~ ~
