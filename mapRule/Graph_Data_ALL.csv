@@ -1,0 +1,70 @@
+id,head,relation,tail,relation,tail,relation,tail
+1,四层fpc板layout,包含,fpc（柔性电路板）,包含,btb（连接器）,设计长度,<40mm
+2,四层fpc板layout,包含,fpc（柔性电路板）,包含,btb（连接器）,放置方向,参考基带转换fpc
+3,四层fpc板layout,包含,fpc（柔性电路板）,包含,中间位置,设计宽度,可增宽2-3mm（y轴）
+4,四层fpc板layout,包含,btb（连接器）,包含,m-（型号）,位置,btb（连接主板侧）
+5,四层fpc板layout,包含,btb（连接器）,包含,f-（型号）,位置,btb（连接相机侧）
+6,四层fpc板layout,包含,btb（连接器）,包含,btb（连接主板侧）,外框设计,保持
+7,四层fpc板layout,包含,btb（连接器）,包含,btb（连接相机侧）,外框设计,可扩展（根据需求）
+8,四层fpc板layout,包含,grounding,包含,器件地pin,接地方式,full contact（非十字交叉）
+9,四层fpc板layout,包含,grounding,包含,原理图分地（如agnd）,连接位置,"dgnd
+"
+10,四层fpc板layout,包含,grounding,包含,地孔,分布,均匀分布
+11,四层fpc板layout,包含,grounding,包含,地孔,数目,>100
+12,四层fpc板layout,包含,射频耦合线,包含,射频连接器,放置位置,靠近btb（连接主板侧）
+13,四层fpc板layout,包含,射频耦合线,包含,末端51ohm电阻,位置,top/bottom层
+14,四层fpc板layout,包含,射频耦合线,包含,射频连接器,距过孔走线,<0.3mm
+15,四层fpc板layout,包含,射频耦合线,包含,末端51ohm电阻,距过孔走线,<0.3mm
+16,四层fpc板layout,包含,射频耦合线,包含,重合位置的mipi走线,参考,网络地
+17,四层fpc板layout,包含,射频耦合线,包含,mipi c-phy,邻层耦合位置,a0/b0/c0（即lane0）
+18,四层fpc板layout,包含,射频耦合线,包含,mipi c-phy,耦合长度,7.5mm+/-0.1mm
+19,四层fpc板layout,包含,射频耦合线,包含,mipi d-phy,邻层耦合位置,clk_p&clk_m（即clock差分线）
+20,四层fpc板layout,包含,射频耦合线,包含,mipi d-phy,耦合长度,7.5mm+/-0.1mm
+21,四层fpc板layout,包含,射频耦合线,包含,非高速线,耦合位置,指定邻层（用户输入）
+22,四层fpc板layout,包含,射频耦合线,包含,非高速线,耦合长度,7.5mm+/-0.1mm
+23,四层fpc板layout,包含,射频耦合线,包含,线宽,长度,75um
+24,四层fpc板layout,包含,射频耦合线,包含,缺最后一条,,
+25,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,要求,三线为一组lane
+26,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,命名规则,csix_cx_lnx_p_pxx
+27,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第2层）,地（第1层）挖空（重叠区域）
+28,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第2层）,参考地（第3层）
+29,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第2层）,线宽85um
+30,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第3层）,地（第4层）挖空（重叠区域）
+31,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第3层）,参考地（第2层）
+32,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第3层）,线宽85um
+33,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第2层；射频线邻层耦合区域）,参考地（第1层）
+34,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第2层；射频线邻层耦合区域）,射频耦合线（第3层）
+35,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第2层；射频线邻层耦合区域）,线宽70um
+36,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第3层；射频线邻层耦合区域）,参考地（第4层）
+37,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第3层；射频线邻层耦合区域）,射频耦合线（第3层）
+38,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,走线（第3层；射频线邻层耦合区域）,线宽70um
+39,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第2层）,地（第1层）挖空（重叠区域）
+40,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第2层）,参考地（第3层）
+41,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第2层）,线宽82um
+42,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第2层）,线间距125um（线边缘到边缘）
+43,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层）,地（第4层）挖空（重叠区域）
+44,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层）,参考地（第2层）
+45,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层）,线宽82um
+46,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层）,线间距125um（线边缘到边缘）
+47,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第2层；射频线邻层耦合区域）,参考地（第1层）
+48,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第2层；射频线邻层耦合区域）,射频耦合线（第3层）
+49,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第2层；射频线邻层耦合区域）,线宽75um
+50,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第2层；射频线邻层耦合区域）,线间距125um（线边缘到边缘）
+51,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层；射频线邻层耦合区域）,参考地（第4层）
+52,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层；射频线邻层耦合区域）,射频耦合线（第3层）
+53,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层；射频线邻层耦合区域）,线宽75um
+54,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层；射频线邻层耦合区域）,线间距125um（线边缘到边缘）
+55,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第1层）,参考地（第2层）
+56,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第1层）,线宽75um
+57,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第1层）,线间距125um（线边缘到边缘）
+58,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层）,参考地（第4层）
+59,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层）,线宽75um
+60,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,走线（第3层）,线间距125um（线边缘到边缘）
+61,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,对内间距,2w
+62,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,对间（或铜箔）,3w
+63,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,对间（或铜箔）,3w
+64,四层fpc板layout,包含,阻抗控制线,包含,三线差分（mipi c-phy）,对内对间,等长且<0.1mm
+65,四层fpc板layout,包含,阻抗控制线,包含,双线差分（mipi d-phy）,对内对间,等长且<0.1mm
+66,四层fpc板layout,包含,阻抗控制线,走线要求,少过孔,,
+67,四层fpc板layout,包含,阻抗控制线,btb（top层）,第3层（过孔走线）,,
+68,四层fpc板layout,包含,阻抗控制线,btb（bottom层）,第2层（过孔走线）,,

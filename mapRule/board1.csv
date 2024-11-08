@@ -1,0 +1,5 @@
+id,head,relation,tail
+11,四层fpc板,包含,阻抗控制线
+12,四层fpc板,包含,BTB
+13,四层fpc板,包含,grounding
+14,四层fpc板,包含,射频耦合线
