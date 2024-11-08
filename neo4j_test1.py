@@ -4,14 +4,14 @@ from py2neo import Graph, Node, Relationship, NodeMatcher
 import csv
 
 # 连接到Neo4j数据库
-graph = Graph("http://localhost:7474", auth=("neo4j", "123456"))
+graph = Graph("bolt://localhost:7687", auth=("neo4j", "12345678"))
 
 try:
-    with open(r'D:\wk\Graph_Data_ALL.csv', 'r', encoding='utf-8') as f:
+    with open(r'C:\Users\11204\Desktop\code\Knowledge_Map\FPC_Kmap\data\Graph_Data_ALL（1）.csv', 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         data = list(reader)
 except UnicodeDecodeError:
-    with open(r'D:\wk\Graph_Data_ALL.csv', 'r', encoding='latin-1') as f:
+    with open(r'C:\Users\11204\Desktop\code\Knowledge_Map\FPC_Kmap\data\Graph_Data_ALL（1）.csv', 'r', encoding='latin-1') as f:
         reader = csv.reader(f)
         data = list(reader)
 
@@ -50,4 +50,4 @@ for i in range(1, len(data)-4):
         graph.create(relationship)
 
 if __name__ == '__main__':
-    path = r"D:\wk\Graph_Data_ALL.csv"
+    path = r"C:\Users\11204\Desktop\code\Knowledge_Map\FPC_Kmap\data\Graph_Data_ALL（1）.csv"
